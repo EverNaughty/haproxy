@@ -1,3 +1,6 @@
+> [!TIP]
+> Change **mydomain** by your lab domain.
+
 # Generate a unique private key (KEY)
 > openssl genrsa -out mydomain.key 2048
 
